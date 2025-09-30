@@ -34,7 +34,7 @@
 }:
 let
   pnpm = pnpm_10;
-  version = "1.143.1";
+  version = "1.144.1";
 
   esbuild' = buildPackages.esbuild.override {
     buildGoModule =
