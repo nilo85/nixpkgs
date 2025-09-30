@@ -108,7 +108,7 @@ let
     owner = "immich-app";
     repo = "immich";
     tag = "v${version}";
-    hash = "sha256-c1OU6XvNKqoseqI8wS36MGX7m4wT49P2FPsrndZy/gk";
+    hash = "sha256-lSe50nbVWNWej137JgfJawIOPhtMVoolHahfrd1ENJc=";
   };
 
   pnpmDeps = pnpm.fetchDeps {
