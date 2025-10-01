@@ -115,7 +115,7 @@ let
     pname = "immich";
     inherit version src;
     fetcherVersion = 2;
-    hash = "sha256-ShKgfsYc9n+B+NnSaJOSyLb4ev43ZsympYhRgPZtlxs=";
+    hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
   };
 
   web = stdenv.mkDerivation {
